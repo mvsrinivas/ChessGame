@@ -1,4 +1,4 @@
-## This is a project doing by manikanta,yogesh and bhaskar with our mentor harikirat to target the GSOC24 
+## This is a project doing by Srinivas,Raja.
 
 Made a chess game by integrating two powerful libraries by making sockets acting as a bridge between them. All thanks to the beautiful libraries for design(chessboard.js) and logic(chess.js).
 
